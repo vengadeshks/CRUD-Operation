@@ -1,6 +1,6 @@
 # CRUD-Operation
 
-#PHP-MYSQL(CRUD)
+# PHP-MYSQL(CRUD)
 
 ## Prerequisites
 1. Install XAMPP web server
@@ -26,7 +26,7 @@
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
 9. Hurray! That's it!
 
-#NODEJS-MYSQL(CRUD)
+# NODEJS-MYSQL(CRUD)
 ## Prerequisites
 1. Install NODE JS using the link https://nodejs.org/en/ 
 2. Install XAMPP web server
