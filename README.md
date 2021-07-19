@@ -49,4 +49,50 @@
 6. Open your web browser and type 'localhost:3001'
 7. Hurray! That's it!
 
-<img src="https://user-images.githubusercontent.com/60843507/126075349-399bfa7c-f37e-4ee8-b959-6687343032a4.PNG">
+# NODEJS-MONGODB+MONGOOSE(CRUD)
+
+## Prerequisites
+1. Install NODE JS using the link https://nodejs.org/en/ 
+2. Then Install Mongodb using the link https://docs.mongodb.com/manual/installation/
+3. Any Editor (Preferably VS Code or Brackets Text Editor)
+4. Any web browser with latest version(eg chrome)
+
+## Languages and Technologies used
+1. HTML5
+2. Bootstrap
+3. Nodejs
+4. Expressjs
+5. ejs(view engine)
+6. MongoDB
+7. Mongoose
+
+## Steps to run the project in your machine
+1. Download and install Node js and mongodb in your machine
+2. Clone or download the repository
+3. Extract all the files
+4. After Extracting the downloaded file,open Terminal where the folder is placed on your system and use the command npm install or npm i to install all the modules that are used for the project .
+5. After installing all the module(express,ejs,mongoose,body-parser) then open a new terminal and run the mongod command to start the mongodb server and then open other terminal to run the mongo shell using the command mongo
+6. Then use the command node app.js or nodemon to run or start the server.
+7. Open your web browser and type 'localhost:3002'
+8. Hurray! That's it!
+ 
+
+
+# OUTPUT
+
+## CREATE & READ
+
+<img src="https://user-images.githubusercontent.com/60843507/126192208-e42f041b-b43a-4758-99fa-7c37357f1620.PNG">
+<img src="https://user-images.githubusercontent.com/60843507/126192215-f31b38d5-86ef-4b07-b035-09b605714b93.PNG">
+
+## UPDATE & READ
+
+<img src="https://user-images.githubusercontent.com/60843507/126192221-786d9a12-13ee-4abf-a367-7093f13d31c7.PNG">
+<img src="https://user-images.githubusercontent.com/60843507/126192226-a91c1d1d-f5e7-42da-835a-5c044da165f8.PNG">
+<img src="https://user-images.githubusercontent.com/60843507/126192228-dae4e2be-cd3f-4c56-a746-9a847ec9946e.PNG">
+
+## DELETE & READ
+<img src="https://user-images.githubusercontent.com/60843507/126192230-0ec7e7d1-e3a5-4366-bcb8-fa27991d991b.PNG">
+
+
+
